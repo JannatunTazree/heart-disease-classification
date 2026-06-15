@@ -2,6 +2,10 @@
 
 Machine learning project for classifying heart disease using the `heart_2020_cleaned.csv` dataset.
 
+# Data Source
+
+Kaggle Indicators of Heart Disease Dataset: (https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+
 ## Repository structure
 
 ```text
